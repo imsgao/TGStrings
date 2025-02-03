@@ -6,7 +6,7 @@
 "Settings.AITranslation.OriginalMessage" = "Original message";
 "Settings.AITranslation.OriginalMessage.show" = "Show";
 "Settings.AITranslation.OriginalMessage.hide" = "Hide";
-"Settings.AITranslation.TargetLanguage" = "Target language"
+"Settings.AITranslation.TargetLanguage" = "Target language";
 
 "Settings.AIInput.Header" = "AI INPUT";
 "Settings.AIInput.Title" = "AI input";
