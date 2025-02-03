@@ -1,6 +1,6 @@
 "Settings.ContentSettings" = "Content Settings";
 
-// MARK: IC - AI Translation
+/* MARK: ICSettings */
 "Settings.AITranslation.Header" = "AI TRANSLATION";
 "Settings.AITranslation.Title" = "AI Translate";
 "Settings.AITranslation.OriginalMessage" = "Original message";
@@ -27,6 +27,7 @@
 "Settings.AIMessageFilter.Mode.transparent" = "Transparent";
 "Settings.AIMessageFilter.Mode.fold" = "Fold";
 "Settings.AIMessageFilter.Mode.hidden" = "Hidden";
+/* MARK: ICSettings */
 
 "Settings.Tabs.Header" = "TABS";
 "Settings.Tabs.HideTabBar" = "Hide Tab bar";
